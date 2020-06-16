@@ -20,6 +20,10 @@ h1 {
 
 
 /*TODO: Add styling rules for the text and images on your website.*/
+ #"op paragraph" {
+  display: flex;
+justify-content:center;
+}
 
 
 
