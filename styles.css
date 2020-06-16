@@ -7,6 +7,9 @@ background-color: #ececec;
 
 h1 {
   color: black;
+  text-align:center;
+  letter-spacing:2px;
+font-family: "Lucida Console", Courier, monospace;
 }
 
 
@@ -26,7 +29,11 @@ h1 {
 
 
 /*TODO: Add styling rules for the text and images on your website.*/
-
+#introtext{ 
+  text-align:center;
+  letter-spacing:2px;
+font-family: "Lucida Console", Courier, monospace;
+}
 
 
 
