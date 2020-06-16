@@ -1,6 +1,6 @@
 /*TODO: Add a background color or image to your website*/
 body {
-  background-color: #ececec; 
+  background-color: #fdffdf; 
   }
 
 
@@ -9,16 +9,9 @@ body {
 .header{
   
   color: black;
-  text-align:center;
+  text-align:left;
   letter-spacing:2px;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
-background-color:#acb7ae;
-  padding:80px;
-   display: flex;
-  margin: 70px 60px 30px;
-justify-content:center;
-  background-color:#acb7ae;
-  
 
 }
 
@@ -32,6 +25,7 @@ justify-content:center;
 flex-wrap:wrap;
   padding-left:80px;
   padding-right:80px;
+  margin:70px;
 
   
 }
@@ -50,7 +44,21 @@ justify-content:center;
 
 /*TODO: Style the Nav Bar by selecting the u1, li, and li a elements*/
 
-
+ul {
+  list-style-type: none;
+  background-color: #fbffbb;
+}
+li {
+  display: inline;
+  display:block;
+  float:left
+}
+li a {
+  color: gray;
+  text-decoration: none;
+  text-align: center;
+  font-size: 1.3em;
+}
 
 
 /*TODO: Create a Flexbox to create a responsive layout. Use the property display: flex;*/ 
