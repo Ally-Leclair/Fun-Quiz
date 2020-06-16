@@ -12,6 +12,14 @@ body {
   text-align:center;
   letter-spacing:2px;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
+background-color:#acb7ae;
+  padding:80px;
+   display: flex;
+  margin: 70px 60px 30px;
+justify-content:center;
+  background-color:#acb7ae;
+  
+
 }
 
 
@@ -20,13 +28,19 @@ body {
   text-align:center;
   letter-spacing:2px;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
+    display: flex;
+flex-wrap:wrap;
+  padding-left:80px;
+  padding-right:80px;
+
   
 }
 
 .headerpicture{
+  border-radius:50%;
   background-color:#acb7ae;
-  margin: 70px 60px 60px;
-  padding:40px;
+  margin: 70px 60px 30px;
+  padding:80px;
    display: flex;
 justify-content:center;
 
