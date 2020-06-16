@@ -11,7 +11,7 @@ body {
   color: black;
   text-align:left;
   letter-spacing:2px;
-  font-family:
+  font-family:"copperplate gothic light"
 
 }
 
@@ -20,25 +20,18 @@ body {
 #introtext{ 
   text-align:center;
   letter-spacing:2px;
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
+  font-family:"copperplate gothic light"
     display: flex;
 flex-wrap:wrap;
-  padding-left:80px;
-  padding-right:80px;
-  margin:70px;
+  padding:80px;
+ 
+  margin:70px 60px;
+  background-color:#ffffc2;
 
   
 }
 
-.headerpicture{
-  border-radius:50%;
-  background-color:#acb7ae;
-  margin: 70px 60px 30px;
-  padding:80px;
-   display: flex;
-justify-content:center;
 
-}
 
 
 
@@ -46,18 +39,23 @@ justify-content:center;
 
 ul {
   list-style-type: none;
-  background-color: #fbffbb;
+  background-color: #dcdcdc;
+  display:flex;
+    justify-content;flex-end;
 }
 li {
   display: inline;
   float:left;
   padding:8px;
 }
-li a {
+
+  
+  li a {
   color: gray;
-  text-decoration: none;
   text-align: center;
   font-size: 1.3em;
+  font-family:"copperplate gothic light"
+    
 }
 
 
