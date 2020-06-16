@@ -18,26 +18,27 @@ padding:80px;
 }
 /*TODO: Style the Nav Bar by selecting the u1, li, and li a elements*/
 
-ul {
+.navbar{
+  display:flex;
+  align-items:flex-start;
+  ul {
   list-style-type: none;
   background-color: #d4938d;
-  display:flex;
-    justify-content;flex-end;
+  
 }
 li {
   display: inline;
-  float:right;
-  padding:8px;
-}
+  padding: 30px;
+  text-decorations:none;
+  }
 
-  
   li a {
   color: gray;
   text-align: right;
   font-size: 1.3em;
   font-family:"copperplate gothic light"
-    
-}
+  }}    
+
 
 
 /*TODO: Add styling rules for the text and images on your website.*/
