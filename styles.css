@@ -7,14 +7,11 @@ body {
 
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
 .header{
-  background-color:#acb7ae;
-  margin: 70px 60px 60px;
-  padding:50px;
+  
   color: black;
   text-align:center;
   letter-spacing:2px;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
-  font-size:0px;
 }
 
 
@@ -23,8 +20,17 @@ body {
   text-align:center;
   letter-spacing:2px;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
+  
 }
 
+.headerpicture{
+  background-color:#acb7ae;
+  margin: 70px 60px 60px;
+  padding:40px;
+   display: flex;
+justify-content:center;
+
+}
 
 
 
