@@ -11,7 +11,7 @@ body {
   color: black;
   text-align:left;
   letter-spacing:2px;
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
+  font-family:
 
 }
 
@@ -50,8 +50,8 @@ ul {
 }
 li {
   display: inline;
-  display:block;
-  float:left
+  float:left;
+  padding:8px;
 }
 li a {
   color: gray;
