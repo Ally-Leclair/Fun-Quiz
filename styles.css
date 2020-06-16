@@ -3,7 +3,9 @@ body {
   background-color: #faf6f2; 
   }
 
-
+*{
+  margin:0px;
+}
 
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
 .header{
@@ -18,26 +20,27 @@ padding:80px;
 }
 /*TODO: Style the Nav Bar by selecting the u1, li, and li a elements*/
 
-.navbar{
-  display:flex;
-  align-items:flex-start;
-  ul {
+
+ul {
   list-style-type: none;
-  background-color: #d4938d;
-  
+  background-color: #003046;
+  padding:30px;
 }
+  
 li {
   display: inline;
-  padding: 30px;
-  text-decorations:none;
-  }
+  padding:10px;
+}
 
   li a {
-  color: gray;
-  text-align: right;
+  color: white;
+  text-decoration: none;
+  text-align: center;
   font-size: 1.3em;
-  font-family:"copperplate gothic light"
-  }}    
+   font-family:"copperplate gothic light"
+  
+ 
+}
 
 
 
