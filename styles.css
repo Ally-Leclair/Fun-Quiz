@@ -10,13 +10,18 @@ body {
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
 .header{
   background-color:#ded1bd;
-padding:80px;
+padding:100px;
   color: black;
-  text-align:left;
+  text-align:center;
   letter-spacing:2px;
   font-family:"copperplate gothic light"
   
 
+}
+#mainimage{
+  border-radius:100%;
+  margin:40px;
+  
 }
 /*TODO: Style the Nav Bar by selecting the u1, li, and li a elements*/
 
@@ -54,7 +59,7 @@ li {
 flex-wrap:wrap;
   padding:80px;
  margin:0px;
-  background-color:#faf6f2;
+  
 
   
 }
