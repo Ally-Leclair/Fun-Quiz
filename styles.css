@@ -95,8 +95,26 @@ justify-content:center;
   background-color:#ded1bd;
 padding:150px;
   color: black;
+  font-size: 1.3em;
   text-align:center;
   letter-spacing:2px;
   font-family:"copperplate gothic light"
- 
+  border-radius:50%;
+}
+
+.aboutme{
+   color:white;
+  font-family:"copperplate gothic light"
+  text-align:center;
+  letter-spacing:2px;
+  font-size:30px;
+  display:flex
+  flex-wrap:wrap;
+  padding:80px;
+  margin:0px;
+}
+
+.aboutimg{
+  display:flex;\
+  
 }
