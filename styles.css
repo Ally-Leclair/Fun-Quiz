@@ -1,13 +1,15 @@
-/*TODO: Add a background color or image to your website*/
+/*Background color and Margin reset*/
+
 body {
   background-color: #d5934a; 
   }
 
 *{
   margin:0px;
-}
+  }
 
-/*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
+/*Header stylization and main image */
+
 .header{
   background-color:#ded1bd;
 padding:60px;
@@ -15,44 +17,38 @@ padding:60px;
   text-align:center;
   letter-spacing:2px;
   font-family:"copperplate gothic light"
-  
+  }
 
-}
 #mainimage{
   margin:40px;
   border-radius:50%;
   max-width:200;
-  
-}
-/*TODO: Style the Nav Bar by selecting the u1, li, and li a elements*/
+  }
 
+/*Nav Bar sylization*/
 
 ul {
   list-style-type: none;
   background-color: #d5934a;
   padding:30px;
-}
+  }
   
 li {
   display: inline;
   padding:10px;
-}
+  }
 
   li a {
   color: white;
   text-decoration: none;
   text-align: center;
   font-size: 1.3em;
-   font-family:"copperplate gothic light"
-  
- 
-}
-
-
+  font-family:"copperplate gothic light"
+  }
 
 /*TODO: Add styling rules for the text and images on your website.*/
 #introtext{ 
-  color:white
+  color:white;
   text-align:center;
   letter-spacing:2px;
   font-size:20px;
