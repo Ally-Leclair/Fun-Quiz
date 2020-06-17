@@ -1,6 +1,6 @@
 /*TODO: Add a background color or image to your website*/
 body {
-  background-color: #faf6f2; 
+  background-color: #d5934a; 
   }
 
 *{
@@ -10,7 +10,7 @@ body {
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
 .header{
   background-color:#ded1bd;
-padding:100px;
+padding:60px;
   color: black;
   text-align:center;
   letter-spacing:2px;
@@ -19,8 +19,9 @@ padding:100px;
 
 }
 #mainimage{
-  border-radius:100%;
   margin:40px;
+  border-radius:50%;
+  max-width:200;
   
 }
 /*TODO: Style the Nav Bar by selecting the u1, li, and li a elements*/
@@ -28,7 +29,7 @@ padding:100px;
 
 ul {
   list-style-type: none;
-  background-color: #003046;
+  background-color: #d5934a;
   padding:30px;
 }
   
@@ -51,6 +52,7 @@ li {
 
 /*TODO: Add styling rules for the text and images on your website.*/
 #introtext{ 
+  color:white
   text-align:center;
   letter-spacing:2px;
   font-size:20px;
