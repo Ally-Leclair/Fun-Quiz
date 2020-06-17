@@ -19,10 +19,11 @@ padding:60px;
   font-family:"copperplate gothic light"
   }
 
-#mainimage{
+.mainimage{
   margin:40px;
   border-radius:50%;
   max-width:200;
+  border:105px white;
   }
 
 /*Nav Bar sylization*/
@@ -41,17 +42,15 @@ li {
   li a {
   color: white;
   text-decoration: none;
-  text-align: center;
   font-size: 1.3em;
-    font-family:"copperplate gothic light"
-}
-
+  font-family:"copperplate gothic light"
+  }
 
 /*Main Paragraph stylization*/
 
 #introtext{ 
   color:white;
-    font-family:"copperplate gothic light"
+  font-family:"copperplate gothic light"
   text-align:center;
   letter-spacing:2px;
   font-size:20px;
