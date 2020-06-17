@@ -22,6 +22,7 @@ padding:60px;
 .mainimage{
   margin:40px;
   max-width:200;
+  border-radius:50%;
   }
 
 /*Nav Bar Sylization*/
@@ -137,8 +138,4 @@ padding:60px;
   margin:0px;
   }
 
-/*About Image*/
 
-.aboutimg{
-  border-radius:50%;
-  }
