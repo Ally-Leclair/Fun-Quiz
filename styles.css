@@ -23,7 +23,6 @@ padding:60px;
   margin:40px;
   border-radius:50%;
   max-width:200;
-  border:105px white;
   }
 
 /*Nav Bar sylization*/
@@ -61,3 +60,7 @@ li {
   }
 
 /*TODO: Create a Flexbox to create a responsive layout. Use the property display: flex;*/ 
+.container {
+  display: flex;
+
+}
