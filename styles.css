@@ -1,4 +1,4 @@
-/*Background color and Margin reset*/
+/*Background Color and Margin Reset*/
 
 body {
   background-color: #d5934a; 
@@ -8,7 +8,7 @@ body {
   margin:0px;
   }
 
-/*Header stylization and main image */
+/*Header Stylization and Main Image */
 
 .header{
   background-color:#ded1bd;
@@ -25,7 +25,7 @@ padding:60px;
   max-width:200;
   }
 
-/*Nav Bar sylization*/
+/*Nav Bar Sylization*/
 
 ul {
   list-style-type: none;
@@ -45,7 +45,7 @@ li {
   font-family:"copperplate gothic light"
   }
 
-/*Main Paragraph stylization*/
+/*Main Paragraph Stylization*/
 
 #introtext{ 
   color:white;
@@ -59,16 +59,23 @@ li {
   margin:0px;
   }
 
+/*Portfolio Heading*/
+
 #porthead{
   color: white;
   text-align:center;
   letter-spacing:2px;
   font-family:"copperplate gothic light"
-}
+  }
+
+/*Image Margin*/
 
 .proimage{
   margin-bottom:40px;
-}
+  }
+
+/*Project Specs*/
+
 .project{
   padding:80px;
   margin:70px;
@@ -76,13 +83,16 @@ li {
   color: white;
   text-align:center;
   font-family:"copperplate gothic light"
-}
+  }
 
-/*TODO: Create a Flexbox to create a responsive layout. Use the property display: flex;*/ 
+/*Flex Stuff Portfolio*/ 
+
 .container {
   display: flex;
-justify-content:center;
-}
+  justify-content:center;
+  }
+
+/*Email Stylization*/
 
 .email{
   text-align:right;
@@ -91,9 +101,11 @@ justify-content:center;
   font-family:"copperplate gothic light"
   }
 
+/*About page Title*/
+
 .abouttitle{
   background-color:#ded1bd;
-padding:150px;
+padding:60px;
   color: black;
   font-size: 1.3em;
   text-align:center;
@@ -102,8 +114,10 @@ padding:150px;
   border-radius:50%;
 }
 
+/*About Paragraph Test*/
+
 .aboutme{
-   color:white;
+  color:white;
   font-family:"copperplate gothic light"
   text-align:center;
   letter-spacing:2px;
@@ -112,9 +126,10 @@ padding:150px;
   flex-wrap:wrap;
   padding:80px;
   margin:0px;
-}
+  }
+
+/*About Image*/
 
 .aboutimg{
-  display:flex;\
-  
-}
+  border-radius:50%;
+  }
