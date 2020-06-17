@@ -43,32 +43,22 @@ li {
   text-decoration: none;
   text-align: center;
   font-size: 1.3em;
-  font-family:"copperplate gothic light"
-  }
-
-/*TODO: Add styling rules for the text and images on your website.*/
-#introtext{ 
-  color:white;
-  text-align:center;
-  letter-spacing:2px;
-  font-size:20px;
-  font-family:"copperplate gothic light"
-    display: flex;
-flex-wrap:wrap;
-  padding:80px;
- margin:0px;
-  
-
-  
+    font-family:"copperplate gothic light"
 }
 
 
+/*Main Paragraph stylization*/
 
-
-
-
-
-
-
+#introtext{ 
+  color:white;
+    font-family:"copperplate gothic light"
+  text-align:center;
+  letter-spacing:2px;
+  font-size:20px;
+  display:flex
+  flex-wrap:wrap;
+  padding:80px;
+  margin:0px;
+  }
 
 /*TODO: Create a Flexbox to create a responsive layout. Use the property display: flex;*/ 
