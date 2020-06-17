@@ -59,8 +59,23 @@ li {
   margin:0px;
   }
 
+#porthead{
+  color: white;
+  text-align:center;
+  letter-spacing:2px;
+  font-family:"copperplate gothic light"
+}
+
+.proimage{
+  margin-bottom:40px;
+}
 .project{
   padding:80px;
+  margin:70px;
+  border:15px solid white;
+  color: white;
+  text-align:center;
+  font-family:"copperplate gothic light"
 }
 
 /*TODO: Create a Flexbox to create a responsive layout. Use the property display: flex;*/ 
