@@ -59,6 +59,17 @@ li {
   margin: 0px;
   }
 
+/*Home Quote*/
+
+.quote{
+  color:white;
+  font-family:"copperplate gothic light"
+  text-align:center;
+  letter-spacing:0px;
+  font-size:15px;
+  line-height:90px;
+  }
+
 /*Portfolio Heading*/
 
 #porthead{
