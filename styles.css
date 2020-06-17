@@ -90,3 +90,13 @@ justify-content:center;
   font-size: 1.3em;
   font-family:"copperplate gothic light"
   }
+
+.abouttitle{
+  background-color:#ded1bd;
+padding:150px;
+  color: black;
+  text-align:center;
+  letter-spacing:2px;
+  font-family:"copperplate gothic light"
+ 
+}
