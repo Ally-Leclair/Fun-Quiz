@@ -59,8 +59,12 @@ li {
   margin:0px;
   }
 
+.project{
+  padding:80px;
+}
+
 /*TODO: Create a Flexbox to create a responsive layout. Use the property display: flex;*/ 
 .container {
   display: flex;
-
+justify-content:center;
 }
