@@ -110,8 +110,11 @@ li {
   text-decoration: none;
   font-size: 1.3em;
   font-family:"copperplate gothic light";
-  color: 
   }
+
+.email{
+  color:#f78733;
+}
 
 /*About page Title*/
 
