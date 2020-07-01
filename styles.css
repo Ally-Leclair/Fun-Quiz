@@ -1,7 +1,7 @@
 /*Background Color and Margin Reset*/
 
 body {
-  background-color: #efefef;
+  background-color: #d7cec7;
   }
 
 *{
@@ -10,31 +10,35 @@ body {
 
 /*Header Stylization and Main Image */
 
-.header{
-  background-color:#a9a9a9;
-padding:60px;
-  margin-left:50px;
-  margin-right:50px;
+#Ally{
   color: white;
-  text-shadow:3px 3px black;
+  text-shadow:3px 3px #565656;
   text-align:center;
   letter-spacing:2px;
   font-family:"copperplate gothic light";
-  outline:10px solid black;
-  
   }
+
+.header{
+   text-align:center;
+  background-color:#c09f80;
+padding:60px;
+  margin-left:50px;
+  margin-right:50px;
+  outline:10px solid #565656;
+   }
 
 .mainimage{
   margin:40px;
   max-width:200;
   border-radius:50%;
+  border:10px solid #caebf2;
   }
 
 /*Nav Bar Sylization*/
 
 ul {
   list-style-type: none;
-  background-color: #efefef;
+  background-color: #d7cec7;
   padding:30px;
   }
   
@@ -44,7 +48,7 @@ li {
   }
 
   li a {
-  color: black;
+  color: #565656;
   text-decoration: none;
   font-size: 1.3em;
   font-family:"copperplate gothic light"
