@@ -31,7 +31,7 @@ padding:60px;
   margin:40px;
   max-width:200;
   border-radius:50%;
-  border:10px solid #caebf2;
+  border:10px solid #76323f;
   }
 
 /*Nav Bar Sylization*/
@@ -57,7 +57,7 @@ li {
 /*Main Paragraph Stylization*/
 
 #introtext{ 
-  color:black;
+  color:#565656;
   font-family:"copperplate gothic light"
   text-align:center;
   letter-spacing:2px;
@@ -71,7 +71,7 @@ li {
 /*Home Quote*/
 
 .quote{
-  color:black;
+  color:#565656;
   font-family:"copperplate gothic light"
   text-align:center;
   letter-spacing:0px;
