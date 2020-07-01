@@ -1,7 +1,7 @@
 /*Background Color and Margin Reset*/
 
 body {
-  background-color: #4abdac; 
+  background-color: #efefef;
   }
 
 *{
@@ -11,12 +11,16 @@ body {
 /*Header Stylization and Main Image */
 
 .header{
-  background-color:#dfdce3;
+  background-color:#a9a9a9;
 padding:60px;
+  margin-left:50px;
+  margin-right:50px;
   color: black;
   text-align:center;
   letter-spacing:2px;
-  font-family:"copperplate gothic light"
+  font-family:"copperplate gothic light";
+  outline:10px solid black;
+  
   }
 
 .mainimage{
@@ -29,7 +33,7 @@ padding:60px;
 
 ul {
   list-style-type: none;
-  background-color: #4abdac;
+  background-color: #efefef;
   padding:30px;
   }
   
@@ -39,7 +43,7 @@ li {
   }
 
   li a {
-  color: white;
+  color: black;
   text-decoration: none;
   font-size: 1.3em;
   font-family:"copperplate gothic light"
@@ -48,7 +52,7 @@ li {
 /*Main Paragraph Stylization*/
 
 #introtext{ 
-  color:white;
+  color:black;
   font-family:"copperplate gothic light"
   text-align:center;
   letter-spacing:2px;
@@ -62,7 +66,7 @@ li {
 /*Home Quote*/
 
 .quote{
-  color:white;
+  color:black;
   font-family:"copperplate gothic light"
   text-align:center;
   letter-spacing:0px;
