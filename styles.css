@@ -36,6 +36,9 @@ padding:60px;
 
 /*Nav Bar Sylization*/
 
+.navbar{
+  text-align:center;
+}
 ul {
   list-style-type: none;
   background-color: #d7cec7;
